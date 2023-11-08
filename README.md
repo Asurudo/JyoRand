@@ -29,4 +29,12 @@ bool value = jyorandengine.jyoRandGetBool(0.39);
 double value = jyorandengine.jyoRandGetNormal<double>(m, s);
 ```
 
+## JyoRand的参考链接
+
+[mt19937及随机数分布模板](https://demo.hedgedoc.org/s/ECOgQ9RZM)
+
+[随机数生成](https://demo.hedgedoc.org/s/Dp8lD-IGz)
+
+发现问题请联系asurudojyo@gmail.com
+
 
