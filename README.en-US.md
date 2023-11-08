@@ -4,7 +4,7 @@
 JyoRand is a random number generation library based on C++ random engine class and random distribution class, aiming to provide convenient and fast, and various forms of random number generation functions.
 
 ## Advantages of JyoRand
-JyoRand tries to switch between three different random number engines to increase randomness. This can make the generated random number sequence more difficult to predict, and also introduce some random factors to select the random number engine.
+JyoRand tries to switch between three different random number engines to increase randomness. This can make the generated random number sequence more difficult to predict, and also add some random factors to select the random number engine.
 
 This library provides support for uniform distribution, real uniform distribution, binomial distribution and normal distribution, so it can meet the random number generation needs of different applications.
 
@@ -35,4 +35,4 @@ double value = jyorandengine.jyoRandGetNormal<double>(m, s);
 
 [Random number generation](https://demo.hedgedoc.org/s/Dp8lD-IGz)
 
-If you find any problems, please contact asurudojyo@gmail.com
+If you find any problem, please contact asurudojyo@gmail.com
